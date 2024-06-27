@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
+    list-style: none;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -49,6 +50,15 @@ body{
 
 .button-add-task:active{
     opacity: .6;
+}
+
+.list-task{
+    width: 100%;
+
+}
+
+.task{
+
 }
 
 img{
