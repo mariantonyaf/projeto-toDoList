@@ -54,7 +54,7 @@ body{
 
 .list-task{
     width: 100%;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .task{
@@ -66,7 +66,7 @@ body{
     justify-content: space-between;
     padding: 0 15px;
     border-radius: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 
 }
 
