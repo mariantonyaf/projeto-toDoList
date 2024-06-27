@@ -30,7 +30,20 @@ body{
 }
 
 .button-add-task{
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    background-color: #003329;
+    color: #fff;
+    font-size: 17px;
+    padding: 0 15px;
+    float: right;
+    cursor: pointer;
+    transition: background-color .3s;
+} 
 
+.button-add-task:hover{
+    background-color: #007e65;
 }
 
 img{
