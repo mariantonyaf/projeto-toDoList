@@ -39,6 +39,7 @@ body{
     padding: 0 15px;
     float: right;
     cursor: pointer;
+    font-weight: 600;
     transition: .3s;
 } 
 
