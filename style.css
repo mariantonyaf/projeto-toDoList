@@ -39,11 +39,15 @@ body{
     padding: 0 15px;
     float: right;
     cursor: pointer;
-    transition: background-color .3s;
+    transition: .3s;
 } 
 
 .button-add-task:hover{
-    background-color: #007e65;
+    opacity: .8;
+}
+
+.button-add-task:active{
+    opacity: .6;
 }
 
 img{
